@@ -36,6 +36,150 @@
 
 ---
 
+## ⚠️ 项目状态说明
+
+> **📢 重要提示**: 本项目为**未完成版本**,核心架构已搭建,但部分功能待完善。欢迎社区大佬继续开发!
+
+### ✅ 已完成功能
+
+| 模块 | 状态 | 说明 |
+|------|------|------|
+| **MacCMS API适配器** | ✅ 完成 | 支持标准MacCMS协议,稳定可用 |
+| **SourceManager核心** | ✅ 完成 | 数据源管理、加载、缓存机制 |
+| **HTTP客户端** | ✅ 完成 | aiohttp异步请求、连接池、重试机制 |
+| **批量处理器** | ✅ 完成 | 多源并行聚合、故障转移 |
+| **Web管理后台** | ✅ 完成 | Flask蓝图、HTML模板、API接口 |
+| **TVBox配置生成** | ✅ 完成 | 动态生成TVBox兼容配置 |
+| **定时任务** | ✅ 完成 | APScheduler自动更新源 |
+| **基础文档** | ✅ 完成 | 架构说明、快速开始、API文档 |
+
+### ⚠️ 待完善功能
+
+| 模块 | 进度 | 问题描述 | 需要做什么 |
+|------|------|----------|-----------|
+| **XBPQ规则引擎** | 🔄 30% | 框架已搭建,核心方法未实现 | 实现`get_categories()`, `get_vod_list()`, `get_vod_detail()`方法,使用BeautifulSoup解析HTML |
+| **DRPY2 JS运行时** | 🔄 20% | 适配器框架存在,JS执行环境未集成 | 集成QuickJS或PyExecJS,注入全局API(request, pdfh等) |
+| **HTML解析器** | ❌ 0% | 未实现通用HTML提取逻辑 | 实现CSS选择器、XPath、正则表达式提取器 |
+| **高级缓存策略** | 🔄 50% | 基础缓存存在,缺少智能失效 | 实现LRU缓存、TTL过期、预热机制 |
+| **性能监控** | ❌ 0% | 无实时监控面板 | 添加Prometheus指标、Grafana看板 |
+| **单元测试** | 🔄 40% | 部分核心模块有测试 | 补充适配器层、路由层测试用例 |
+| **Docker部署** | 🔄 60% | Dockerfile存在,未优化 | 多阶段构建、健康检查、volume挂载 |
+
+### 🎯 优先完善方向
+
+如果您想贡献代码,建议从以下方向入手:
+
+#### 🔥 优先级1: 完善XBPQ适配器 (最实用)
+```python
+# 位置: src/core/adapters/xbpq_adapter.py
+# 需要实现的方法:
+async def get_categories(self) -> List[Dict]:
+    """解析XBPQ规则的分类页面"""
+    # TODO: 使用requests获取HTML,用BeautifulSoup提取分类
+    
+async def get_vod_list(self, category_id: str, page: int) -> Dict:
+    """解析影片列表页面"""
+    # TODO: 解析分页列表,提取影片信息
+    
+async def get_vod_detail(self, vod_id: str) -> Dict:
+    """解析影片详情页面"""
+    # TODO: 提取播放地址、简介、演员等信息
+```
+
+**技术栈**: BeautifulSoup4, lxml, CSS选择器  
+**难度**: ⭐⭐⭐  
+**预计工作量**: 2-3天
+
+---
+
+#### 🔥 优先级2: 集成DRPY2 JS运行时 (最有挑战)
+```python
+# 位置: src/core/adapters/drpy2_adapter.py
+# 需要实现:
+def _init_js_runtime(self):
+    """初始化JavaScript运行环境"""
+    # TODO: 使用quickjs或PyExecJS创建JS上下文
+    # TODO: 注入全局API: request(), pdfh(), pd(), log()
+    
+async def execute_script(self, script_path: str, function_name: str, args: Dict) -> Any:
+    """执行DRPY2脚本"""
+    # TODO: 加载JS文件,调用指定函数,返回结果
+```
+
+**技术栈**: quickjs / PyExecJS / node.js subprocess  
+**难度**: ⭐⭐⭐⭐  
+**预计工作量**: 3-5天
+
+---
+
+#### 🔥 优先级3: 优化HTML解析引擎 (最通用)
+```python
+# 新建: src/core/html_parser.py
+class HTMLParser:
+    """通用HTML解析器,支持多种提取方式"""
+    
+    def extract_by_css(self, html: str, selector: str) -> List[str]:
+        """CSS选择器提取"""
+        # TODO: 使用BeautifulSoup或lxml
+        
+    def extract_by_xpath(self, html: str, xpath: str) -> List[str]:
+        """XPath提取"""
+        # TODO: 使用lxml.etree
+        
+    def extract_by_regex(self, html: str, pattern: str) -> List[str]:
+        """正则表达式提取"""
+        # TODO: 使用re模块
+```
+
+**技术栈**: BeautifulSoup4, lxml, regex  
+**难度**: ⭐⭐  
+**预计工作量**: 1-2天
+
+---
+
+### 💡 如何贡献
+
+#### 方式1: Fork & Pull Request (推荐)
+```bash
+# 1. Fork本仓库
+# 2. 克隆您的Fork
+git clone https://github.com/YOUR_USERNAME/TVSource-Studio.git
+
+# 3. 创建功能分支
+git checkout -b feature/xbpq-parser
+
+# 4. 开发并测试
+# ... 编写代码 ...
+
+# 5. 提交PR
+git push origin feature/xbpq-parser
+# 然后在GitHub上创建Pull Request
+```
+
+#### 方式2: 提交Issue讨论
+- 发现Bug? → 提交Bug Report
+- 有新想法? → 提交Feature Request
+- 遇到问题? → 提交Question
+
+#### 方式3: 直接联系
+- GitHub Issues: https://github.com/debrnr/TVSource-Studio/issues
+- Gitee Issues: https://gitee.com/debrnr/tvsource-studio/issues
+
+---
+
+### 🙏 致谢未来贡献者
+
+感谢每一位愿意完善本项目的开发者!您的每一份贡献都将帮助更多人享受更好的TVBox体验。
+
+**特别期待**:
+- 🎯 Python后端工程师 - 完善适配器和解析器
+- 🎨 前端工程师 - 优化管理后台UI/UX
+- 🧪 测试工程师 - 补充单元测试和集成测试
+- 📝 文档工程师 - 完善使用教程和API文档
+- 🐳 DevOps工程师 - 优化Docker部署和CI/CD
+
+---
+
 ## 📦 支持的數據源类型
 
 | 类型 | 名称 | 难度 | 稳定性 | 说明 |
