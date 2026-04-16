@@ -1,0 +1,15 @@
+{
+  "check_time": "2026-04-15T12:58:42.435605",
+  "total_tested": 16,
+  "healthy_count": 1,
+  "sources": [
+    {
+      "url": "https://subocaiji.com/api.php/provide/vod/",
+      "status": "HEALTHY",
+      "response_time": 1878.84,
+      "data_count": 1,
+      "sample_movie": "童年阴影",
+      "error": ""
+    }
+  ]
+}

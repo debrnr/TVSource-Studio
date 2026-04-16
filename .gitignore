@@ -1,0 +1,121 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Data (运行时生成的数据 - 不提交)
+data/sources/*.json
+data/output/*
+data/rules/
+data/maccms_cache.db
+!data/output/.gitkeep
+!data/sources/.gitkeep
+
+# Demo目录 (外部资源,不提交)
+demo/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+!.env.example
+config/.env
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+*.bak
+*.cache
+
+# Test scripts (本地测试,不提交)
+test_*.py
+test/*.py
+!test/README.md
+
+# Reset/Clear scripts (一次性工具,可选提交)
+reset_data.py
+clear_project.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Windows
+$RECYCLE.BIN/
+System Volume Information/
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

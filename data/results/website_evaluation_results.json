@@ -1,0 +1,235 @@
+[
+  {
+    "domain": "www.k1k.cc",
+    "url": "http://www.k1k.cc/",
+    "score": 70,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 165038,
+        "response_time": 1.549801
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": true,
+        "sample_count": 20,
+        "detail_url": "http://www.k1k.cc/zy/10941",
+        "structure_type": "custom"
+      },
+      "play_url": {
+        "has_play_url": true,
+        "play_url_count": 1,
+        "sample_urls": [
+          "[手机MP4]20260409$https://dow.lzdown28.com/20260410/4720_5143308f/爱情保卫战20260409.mp4#[手机MP4]20260319$https://dow.lzdown28.com/20260319/3580_919f8cf9/爱情保卫战20260319.mp4#[手机MP4]20260219$https://dow.lzdown28.com/20260220/8735_e29d642c/爱情保卫战20260219.mp4#[手机MP4]20260129$https://dow.lzdown28.com/20260130/7895_a35c35a6/爱情保卫战20260129.mp4#[手机MP4]20251209$https://dow.lzdown28.com/20251210/5717_5137265a/爱情保卫战20251209.mp4#[手机MP4]20251119$https://lzdown27.com/20251120/18941_5981fe68/爱情保卫战20251119.mp4#[手机MP4]20251029$https://lzdown27.com/20251030/17988_ffb8d9ac/爱情保卫战20251029.mp4#[手机MP4]20251009$https://lzdown27.com/20251010/17053_d16fa712/爱情保卫战20251009.mp4#[手机MP4]20250909$https://lzdown27.com/20250910/15648_912eaec0/爱情保卫战20250909.mp4#[手机MP4]20250819$https://lzdown27.com/20250820/14678_2d99c3c0/爱情保卫战20250819.mp4#[手机MP4]20250729$https://lzdown27.com/20250730/13675_b853d2d6/爱情保卫战20250729.mp4#[手机MP4]20250709$https://lzdown27.com/20250710/12746_e07bfe4b/爱情保卫战20250709.mp4#[手机MP4]20250619$https://lzdown26.com/20250620/11783_1356e34b/爱情保卫战20250619.mp4#[手机MP4]20250529$https://lzdown26.com/20250530/10717_2a3032e7/爱情保卫战20250529.mp4#[手机MP4]20250429$https://lzdown26.com/20250430/9309_feacd490/爱情保卫战20250429.mp4#[手机MP4]20250409$https://lzdown26.com/20250410/8354_8babd2e3/爱情保卫战20250409.mp4#[手机MP4]20250319$https://lzdown26.com/20250320/7443_cf49ab6e/爱情保卫战20250319.mp4#[手机MP4]20250219$https://lzdown26.com/20250220/5982_c7ea8efc/爱情保卫战20250219.mp4#[手机MP4]20250109$https://dow.dowlz17.com/20250110/4099_40d2168e/爱情保卫战20250109.mp4#[手机MP4]20241219$https://dow.dowlz17.com/20241220/3076_d6b70419/爱情保卫战20241219.mp4#[手机MP4]20241119$https://dow.dowlz18.com/20241120/19533_039c6ce9/爱情保卫战20241120.mp4#[手机MP4]20241029$https://dow.dowlz18.com/20241030/18773_5a4c5a0e/爱情保卫战20241029.mp4#[手机MP4]20241009$https://dow.dowlz18.com/20241010/18022_a3e893b8/爱情保卫战20241009.mp4#[手机MP4]20240919$https://dow.dowlz18.com/20240920/17196_7e075a65/爱情保卫战20240919.mp4#[手机MP4]20240829$https://dow.dowlz18.com/20240830/16172_9cf66622/爱情保卫战20240829.mp4#[手机MP4]20240709$https://dow.dowlz18.com/20240710/13915_493ab710/爱情保卫战20240709.mp4#[手机MP4]20240619$https://dow.dowlz17.com/20240620/884_2116e8da/爱情故事20240619.mp4#[手机MP4]20240529$https://dow.dowlz18.com/20240530/13242_1b21c1b3/爱情保卫战20240529.mp4#[手机MP4]20240509$https://dow.dowlz10.com/20240510/18690_35c62867/爱情保卫战20240509.mp4#[手机MP4]20240409$https://dow.dowlz10.com/20240410/17347_66a3c699/爱情保卫战20240409.mp4#[手机MP4]20240319$https://dow.dowlz10.com/20240320/16359_5f80582a/爱情保卫战20240319.mp4#[手机MP4]20240229$https://dow.dowlz11.com/20240301/25021_6afc1396/爱情保卫战20240229.mp4#[手机MP4]20240109$https://dow.dowlz11.com/20240110/22752_09f28c2a/爱情保卫战20240109.mp4#[手机MP4]20230419$https://dow.dowlz8.com/20230420/50230_af101098/爱情保卫战20230419.mp4#[手机MP4]20230329$https://dow.dowlz7.com/20230330/6777_818f58fa/爱情保卫战20230329.mp4#[手机MP4]20230309$https://dow.dowlz7.com/20230310/6021_23800201/爱情保卫战20230309.mp4#[手机MP4]20230209$https://dow.dowlz7.com/20230211/4964_a6e5c632/爱情保卫战20230209.mp4#[手机MP4]20230119$https://dow.dowlz7.com/20230120/4281_49cbc09c/爱情保卫战20230119.mp4#[手机MP4]20221229$https://dow.dowlz2.com//20230104/13763_49a049be/爱情保卫战20221229.mp4#[手机MP4]20221129$https://dow.dowlz2.com//20221130/12425_9bec22bf/爱情保卫战20221129.mp4#[手机MP4]20221109$https://dow.dowlz2.com//20221113/11700_f6604d0c/爱情保卫战20221109.mp4#[手机MP4]20260408$https://dow.lzdown28.com/20260409/4671_3607914b/爱情保卫战20260408.mp4#[手机MP4]20260318$https://dow.lzdown28.com/20260318/3516_aa18758f/爱情保卫战20260318.mp4#[手机MP4]20260128$https://dow.lzdown28.com/20260129/7852_c1bc163e/爱情保卫战20260128.mp4#[手机MP4]20260108$https://dow.lzdown28.com/20260109/7083_ed05a195/爱情保卫战20260108.mp4#[手机MP4]20251218$https://dow.lzdown28.com/20251219/6122_c67963ee/爱情保卫战20251218.mp4#[手机MP4]20251118$https://lzdown27.com/20251119/18888_4e2e714f/爱情保卫战20251118.mp4#[手机MP4]20251028$https://lzdown27.com/20251029/17927_d2a3cd80/爱情保卫战20251028.mp4#[手机MP4]20251008$https://lzdown27.com/20251009/16967_56ab7b4d/爱情保卫战20251008.mp4#[手机MP4]20250918$https://lzdown27.com/20250919/16059_f719ad8b/爱情保卫战20250918.mp4#[手机MP4]20250918$undefined#[手机MP4]20250828$https://lzdown27.com/20250829/15138_3418d5a3/爱情保卫战20250828.mp4#[手机MP4]20250708$https://lzdown27.com/20250709/12709_8d297caa/爱情保卫战20250708.mp4#[手机MP4]20250618$https://lzdown26.com/20250619/11721_7ed90ba5/爱情保卫战20250618.mp4#[手机MP4]20250528$https://lzdown26.com/20250529/10665_a3d01c9b/爱情保卫战20250528.mp4#[手机MP4]20250508$https://lzdown26.com/20250509/9726_494db768/爱情保卫战20250508.mp4#[手机MP4]20250408$https://lzdown26.com/20250409/8309_768f7c29/爱情保卫战20250408.mp4#[手机MP4]20250318$https://lzdown26.com/20250319/7384_6a52dc1f/爱情保卫战20250318.mp4#[手机MP4]20250218$https://lzdown26.com/20250219/5945_37991c66/爱情保卫战20250218.mp4#[手机MP4]2025108$https://dow.dowlz17.com/20250109/4036_6462ecac/爱情保卫战2025108.mp4#[手机MP4]20241218$https://dow.dowlz17.com/20241219/3045_459fb6c1/爱情保卫战20241218.mp4#[手机MP4]20241128$https://dow.dowlz17.com/20241129/8847_3308114e/爱情保卫战20241128.mp4#[手机MP4]20241008$https://dow.dowlz18.com/20241009/17992_6cbf64d0/爱情保卫战20241008.mp4#[手机MP4]20240918$https://dow.dowlz18.com/20240919/17161_a6706b85/爱情保卫战20240918.mp4#[手机MP4]20240828$https://dow.dowlz18.com/20240829/16093_c0e98cdd/传奇故事20240828.mp4#[手机MP4]20240808$https://dow.dowlz17.com/20240809/3505_141c5dc5/爱情保卫战20240808.mp4#[手机MP4]20240718$https://dow.dowlz18.com/20240719/14553_43e7a1bd/爱情保卫战20240718.mp4#[手机MP4]20240618$https://dow.dowlz17.com/20240619/835_3e88b56f/爱情保卫战 20240618.mp4#[手机MP4]20240528$https://dow.dowlz18.com/20240529/13171_f6b9b50c/爱情保卫战20240528.mp4#[手机MP4]20240508$https://dow.dowlz10.com/20240509/18622_f03b9ee0/爱情保卫战20240508.mp4#[手机MP4]20240418$https://dow.dowlz10.com/20240419/17734_df03cc84/爱情保卫战20240418.mp4#[手机MP4]20240328$https://dow.dowlz10.com/20240329/16784_14220781/爱情保卫战20240328.mp4#[手机MP4]20240228$https://dow.dowlz11.com/20240229/24967_b95732a1/爱情保卫战20240228.mp4#[手机MP4]20240208$https://dow.dowlz11.com/20240209/24144_cf0f70c9/爱情保卫战20240208.mp4#[手机MP4]20240118$https://dow.dowlz11.com/20240119/23212_dd3efdb5/爱情保卫战20240118.mp4#[手机MP4]20230418$https://dow.dowlz8.com/20230419/50182_d956d2bc/爱情保卫战20230418.mp4#[手机MP4]20230328$https://dow.dowlz7.com/20230330/6775_d68649d1/爱情保卫战20230328.mp4#[手机MP4]20230308$https://dow.dowlz7.com/20230309/5978_d40d3cdc/爱情保卫战20230308.mp4#[手机MP4]20230228$https://dow.dowlz7.com/20230301/5672_8d903e48/爱情保卫战20230228.mp4#[手机MP4]20230208$https://dow.dowlz7.com/20230209/4859_c46c3820/爱情保卫战20230208.mp4#[手机MP4]20230118$https://dow.dowlz7.com/20230120/4282_8018b95c/爱情保卫战20230118.mp4#[手机MP4]20221228$https://dow.dowlz2.com//20221229/13549_a156d8e4/爱情保卫战20221228.mp4#[手机MP4]20221208$https://dow.dowlz2.com//20221209/12694_6542d6c9/爱情保卫战20221208.mp4#[手机MP4]20221108$https://dow.dowlz2.com//20221113/11701_021e0a73/爱情保卫战20221108.mp4#[手机MP4]20260317$https://dow.lzdown28.com/20260318/3478_7e63f115/爱情保卫战20260317.mp4#[手机MP4]20260127$https://dow.lzdown28.com/20260128/7798_7394ab4c/爱情保卫战20260127.mp4#[手机MP4]20260107$https://dow.lzdown28.com/20260108/7016_1158daad/爱情保卫战20260107.mp4#[手机MP4]20251217$https://dow.lzdown28.com/20251218/6073_12436b2d/爱情保卫战20251217.mp4#[手机MP4]20251127$https://dow.lzdown28.com/20251128/5153_9548d7e7/爱情保卫战20251127.mp4#[手机MP4]20251007$https://lzdown27.com/20251008/16923_8021a50a/爱情保卫战20251007.mp4#[手机MP4]20250917$https://lzdown27.com/20250918/16020_90785131/爱情保卫战20250917.mp4#[手机MP4]20250807$https://lzdown27.com/20250808/14099_ccecf2ad/爱情保卫战20250807.mp4#[手机MP4]20250717$https://lzdown27.com/20250718/13119_9aed4d2f/爱情保卫战20250717.mp4#[手机MP4]20250617$https://lzdown26.com/20250618/11673_6784ea97/爱情保卫战20250617.mp4#[手机MP4]20250527$https://lzdown26.com/20250528/10605_d660150f/爱情保卫战20250527.mp4#[手机MP4]20250507$https://lzdown26.com/20250508/9681_33e96866/爱情保卫战20250507.mp4#[手机MP4]20250417$https://lzdown26.com/20250418/8734_ae33af5e/爱情保卫战20250417.mp4#[手机MP4]20250417$https://lzdown26.com/20250417/8693_6ecf654d/爱情保卫战20250417.mp4#[手机MP4]20250327$https://lzdown26.com/20250328/7784_02ae4368/爱情保卫战20250327.mp4#[手机MP4]20250227$https://lzdown26.com/20250228/6323_cd5d9cb0/爱情保卫战  20250227.mp4#[手机MP4]20250107$https://dow.dowlz17.com/20250108/3975_11c7740e/爱情保卫战20250107.mp4#[手机MP4]20241217$https://dow.dowlz17.com/20241218/3023_ac7f1d4f/爱情保卫战20241217.mp4#[手机MP4]20241127$https://dow.dowlz17.com/20241128/8759_cf8edb3c/爱情保卫战20241127.mp4#[手机MP4]20241107$https://dow.dowlz18.com/20241108/19113_3dc93634/爱情保卫战20241108.mp4#[手机MP4]20241017$https://dow.dowlz18.com/20241018/18334_da06d685/爱情保卫战20241017.mp4#[手机MP4]20240917$https://dow.dowlz18.com/20240918/17091_710dc794/爱情保卫战20240917.mp4#[手机MP4]20240827$https://dow.dowlz18.com/20240828/16046_a4d03432/爱情保卫战20240827.mp4#[手机MP4]20240807$https://dow.dowlz17.com/20240808/3449_ac7e51be/爱情保卫战20240807.mp4#[手机MP4]20240717$https://dow.dowlz18.com/20240718/14458_5cc9be45/爱情保卫战20240717.mp4#[手机MP4]20240627$https://dow.dowlz17.com/20240628/1558_43b13439/爱情保卫战20240627.mp4#[手机MP4]20240507$https://dow.dowlz10.com/20240508/18590_fd00f5f4/爱情保卫战20240507.mp4#[手机MP4]20240417$https://dow.dowlz10.com/20240418/17711_3b0e8641/爱情保卫战20240417.mp4#[手机MP4]20240327$https://dow.dowlz10.com/20240328/16753_5d81b3d8/爱情保卫战20240327.mp4#[手机MP4]20240307$https://dow.dowlz11.com/20240308/25310_9f0ff598/爱情保卫战20240307.mp4#[手机MP4]20240227$https://dow.dowlz11.com/20240229/24968_a6bf961c/爱情保卫战20240227.mp4#[手机MP4]20240207$https://dow.dowlz11.com/20240208/24091_60b7b0b5/爱情保卫战20240207.mp4#[手机MP4]20240117$https://dow.dowlz11.com/20240118/23159_d8fef9c0/爱情保卫战20240117.mp4#[手机MP4]20230307$https://dow.dowlz7.com/20230308/5934_1c07141a/爱情保卫战20230307.mp4#[手机MP4]20230207$https://dow.dowlz7.com/20230209/4860_1a71ce3e/爱情保卫战20230207.mp4#[手机MP4]20230117$https://dow.dowlz7.com/20230118/4203_ec3437bc/爱情保卫战20230117.mp4#[手机MP4]20221227$https://dow.dowlz2.com//20221228/13506_f738546f/爱情保卫战20221227.mp4#[手机MP4]20221207$https://dow.dowlz2.com//20221209/12695_4673e612/爱情保卫战20221207.mp4#[手机MP4]20221117$https://dow.dowlz2.com//20221118/11867_1dd8c226/爱情保卫战20221117.mp4#[手机MP4]20221027$https://dow.dowlz7.com/20221028/3227_134d66c0/爱情保卫战20221027.mp4#[手机MP4]20260326$https://dow.lzdown28.com/20260327/3985_3eb3ac7b/爱情保卫战20260326.mp4#[手机MP4]20260226$https://dow.lzdown28.com/20260227/8991_485e783a/爱情保卫战20260226.mp4#[手机MP4]20260106$https://dow.lzdown28.com/20260107/6970_4ef662e8/爱情保卫战20260106.mp4#[手机MP4]20251216$https://dow.lzdown28.com/20251217/6026_f9963752/爱情保卫战  20251216.mp4#[手机MP4]20251126$https://dow.lzdown28.com/20251127/5105_a9cd46e8/爱情保卫战20251126.mp4#[手机MP4]20251106$https://lzdown27.com/20251107/18383_6dc14d41/爱情保卫战20251106.mp4#[手机MP4]20251016$https://lzdown27.com/20251017/17371_62b2554b/爱情保卫战20251016.mp4#[手机MP4]20250916$https://lzdown27.com/20250917/15972_6a6ed30c/爱情保卫战20250916.mp4#[手机MP4]20250826$https://lzdown27.com/20250827/15033_0c9846ec/爱情保卫战20250826.mp4#[手机MP4]20250806$https://lzdown27.com/20250807/14049_18c56edb/爱情保卫战20250806.mp4#[手机MP4]20250716$https://lzdown27.com/20250717/13051_cc15f3a5/爱情保卫战20250716.mp4#[手机MP4]20250506$https://lzdown26.com/20250507/9629_58010cbc/爱情保卫战20250506.mp4#[手机MP4]20250416$https://lzdown26.com/20250417/8693_6ecf654d/爱情保卫战20250417.mp4#[手机MP4]20250326$https://lzdown26.com/20250327/7734_fb81fdb2/爱情保卫战20250326.mp4#[手机MP4]20250306$https://lzdown26.com/20250307/6782_32b223d3/爱情保卫战20250306.mp4#[手机MP4]20250226$https://lzdown26.com/20250227/6265_73fd7839/爱情保卫战20250226.mp4#[手机MP4]20250206$https://lzdown26.com/20250207/5369_bfde3934/爱情保卫战20250206.mp4#[手机MP4]20250116$https://dow.dowlz17.com/20250117/4437_62ad736c/爱情保卫战20250116.mp4#[手机MP4]20241226$https://dow.dowlz17.com/20241227/3361_579dc5fb/爱情保卫战20241226.mp4#[手机MP4]20241226$https://dow.dowlz17.com/20241226/3318_7ecfd42f/爱情保卫战20241226.mp4#[手机MP4]20241126$https://dow.dowlz17.com/20241127/8672_2202c3e8/爱情保卫战20241126.mp4#[手机MP4]20241106$https://dow.dowlz18.com/20241107/19082_7a8da8d8/爱情保卫战20241106.mp4#[手机MP4]20241016$https://dow.dowlz18.com/20241016/18257_405dc9ba/爱情保卫战20241016.mp4#[手机MP4]20240926$https://dow.dowlz18.com/20240927/17562_846a363b/爱情保卫战20240926.mp4#[手机MP4]20240906$https://dow.dowlz18.com/20240906/16508_d7ad5d41/爱情保卫战20240906.mp4#[手机MP4]20240816$https://dow.dowlz18.com/20240821/15697_1324ddad/爱情保卫战事20240816.mp4#[手机MP4]20240806$https://dow.dowlz17.com/20240807/3356_7ece915e/爱情保卫战20240806.mp4#[手机MP4]20240716$https://dow.dowlz18.com/20240717/14390_12f03e78/爱情保卫战20240716.mp4#[手机MP4]20240626$https://dow.dowlz17.com/20240627/1430_9ad955f1/爱情保卫战20240626.mp4#[手机MP4]20240606$https://dow.dowlz17.com/20240607/110_ff96a233/爱情保卫战20240606.mp4#[手机MP4]20240516$https://dow.dowlz10.com/20240517/19028_169f686d/爱情保卫战20240516.mp4#[手机MP4]20240416$https://dow.dowlz10.com/20240417/17667_a4a5114d/爱情保卫战20240416.mp4#[手机MP4]20240326$https://dow.dowlz10.com/20240327/16683_1aa10040/爱情保卫战20240326.mp4#[手机MP4]20240306$https://dow.dowlz11.com/20240307/25258_ae2bfa89/爱情保卫战20240306.mp4#[手机MP4]20240206$https://dow.dowlz11.com/20240207/24072_6d5f6474/爱情保卫战20240206.mp4#[手机MP4]20240116$https://dow.dowlz11.com/20240117/23094_6cb36beb/爱情保卫战20240116.mp4#[手机MP4]20230406$https://dow.dowlz2.com//20230412/14142_8c1c26c6/爱情保卫战20230406.mp4#[手机MP4]20230316$https://dow.dowlz7.com/20230317/6288_376f1add/爱情保卫战20230316.mp4#[手机MP4]20230216$https://dow.dowlz7.com/20230217/5171_c4fcfc94/爱情保卫战20230216.mp4#[手机MP4]20221116$https://dow.dowlz2.com//20221118/11868_2da7e819/爱情保卫战20221116.mp4#[手机MP4]20221026$https://dow.dowlz2.com//20221027/11452_0ac7f068/爱情保卫战20221026.mp4#[手机MP4]20260325$https://dow.lzdown28.com/20260325/3921_64d9ca86/爱情保卫战20260325.mp4#[手机MP4]20260305$https://dow.lzdown28.com/20260306/9258_a281581f/爱情保卫战20260305.mp4#[手机MP4]20260225$https://dow.lzdown28.com/20260226/8953_59826b0c/爱情保卫战20260225.mp4#[手机MP4]20260205$https://dow.lzdown28.com/20260206/8164_90e49ce0/爱情保卫战 20260205.mp4#[手机MP4]20260115$https://dow.lzdown28.com/20260116/7339_d41a5e29/爱情保卫战20260115.mp4#[手机MP4]20251225$https://dow.lzdown28.com/20251226/6449_25e5c72c/爱情保卫战20251225.mp4#[手机MP4]20251125$https://dow.lzdown28.com/20251126/5073_e5e4273a/爱情保卫战20251125.mp4#[手机MP4]20251105$https://lzdown27.com/20251106/18332_0548d157/爱情保卫战20251105.mp4#[手机MP4]20251015$https://lzdown27.com/20251016/17325_3405cbc3/爱情保卫战20251015.mp4#[手机MP4]20250925$https://lzdown27.com/20250926/16393_becc6a7e/爱情保卫战20250925.mp4#[手机MP4]20250805$https://lzdown27.com/20250806/14010_6db3b517/爱情保卫战20250805.mp4#[手机MP4]20250715$https://lzdown27.com/20250716/13004_3e71f6ce/爱情保卫战20250715.mp4#[手机MP4]20250625$https://lzdown27.com/20250626/12070_686d9af2/爱情保卫战20250625.mp4#[手机MP4]20250605$https://lzdown26.com/20250606/11031_61474cda/爱情保卫战20250605.mp4#[手机MP4]20250515$https://lzdown26.com/20250516/10053_5ac5f2ae/爱情保卫战20250515.mp4#[手机MP4]20250325$https://lzdown26.com/20250326/7692_e3f2bca4/爱情保卫战20250325.mp4#[手机MP4]20250305$https://lzdown26.com/20250306/6612_f0aae7ff/爱情保卫战20250305.mp4#[手机MP4]20250225$https://lzdown26.com/20250226/6224_215f834c/爱情保卫战20250225.mp4#[手机MP4]20250205$https://lzdown26.com/20250206/5333_a3990c96/爱情保卫战20250205.mp4#[手机MP4]20250115$https://dow.dowlz17.com/20250116/4388_e398f992/爱情保卫战20250115.mp4#[手机MP4]20241205$https://dow.dowlz17.com/20241206/2620_745e1180/爱情保卫战20241205.mp4#[手机MP4]20241105$https://dow.dowlz18.com/20241106/19020_ef589cef/爱情保卫战20241105.mp4#[手机MP4]20241015$https://dow.dowlz18.com/20241016/18238_5975ea05/爱情保卫战20241015.mp4#[手机MP4]20240925$https://dow.dowlz18.com/20240926/17459_09f7ba08/爱情保卫战20240925.mp4#[手机MP4]20240815$https://dow.dowlz18.com/20240816/15445_6099e3ad/爱情保卫战20240815.mp4#[手机MP4]20240725$https://dow.dowlz18.com/20240726/14774_ce181e97/爱情保卫战20240725.mp4#[手机MP4]20240625$https://dow.dowlz17.com/20240626/1366_b60a53b9/爱情卫战奇20240625.mp4#[手机MP4]20240605$https://dow.dowlz18.com/20240606/13711_d85c603e/爱情保卫战20240605.mp4#[手机MP4]20240515$https://dow.dowlz10.com/20240516/18968_b8225c4c/爱情保卫战20240515.mp4#[手机MP4]20240425$https://dow.dowlz10.com/20240426/18055_e41d148c/爱情保卫战20240425.mp4#[手机MP4]20240305$https://dow.dowlz11.com/20240306/25216_0a9a5b2e/爱情保卫战20240305.mp4#[手机MP4]20240215$https://dow.dowlz11.com/20240216/24336_eacc61c7/爱情保卫战20240215.mp4#[手机MP4]20240125$https://dow.dowlz11.com/20240126/23549_573f0941/爱情保卫战20240125.mp4#[手机MP4]20230405$https://dow.dowlz7.com/20230406/7062_5243b31f/爱情保卫战20230405.mp4#[手机MP4]20230315$https://dow.dowlz7.com/20230316/6227_56e7154b/爱情保卫战20230315.mp4#[手机MP4]20230125$https://dow.dowlz7.com/20230129/4471_a66959f6/爱情保卫战20230125.mp4#[手机MP4]20230105$https://dow.dowlz2.com//20230106/13864_a371cf21/爱情保卫战20230105.mp4#[手机MP4]20221215$https://dow.dowlz2.com//20221216/12978_e13a52c5/爱情保卫战20221215.mp4#[手机MP4]20221115$https://dow.dowlz2.com//20221118/11869_f35851cb/爱情保卫战20221115.mp4#[手机MP4]20221025$https://dow.dowlz2.com//20221026/11439_bb6c9ef1/爱情保卫战20221025.mp4#[手机MP4]20260414$https://dow.lzdown28.com/20260415/5093_5c31d7d1/爱情保卫战20260414.mp4#[手机MP4]20260324$https://dow.lzdown28.com/20260325/3878_236d9b07/爱情保卫战20260324.mp4#[手机MP4]20260304$https://dow.lzdown28.com/20260305/9221_4140d5b8/爱情保卫战20260304.mp4#[手机MP4]20260224$https://dow.lzdown28.com/20260225/8916_f731343f/爱情保卫战20260224.mp4#[手机MP4]20260204$https://dow.lzdown28.com/20260205/8126_55feee29/爱情保卫战20260204.mp4#[手机MP4]20260114$https://dow.lzdown28.com/20260115/7301_afbf12c7/爱情保卫战20260114.mp4#[手机MP4]20251224$https://dow.lzdown28.com/20251225/6404_f7d72375/爱情保卫战20251224.mp4#[手机MP4]20251204$https://dow.lzdown28.com/20251204/5471_5166174f/爱情保卫战20251204.mp4#[手机MP4]20251104$https://lzdown27.com/20251105/18268_4328a3ee/爱情保卫战20251104.mp4#[手机MP4]20251014$https://lzdown27.com/20251015/17275_d8dac833/爱情保卫战20251014.mp4#[手机MP4]20250924$https://lzdown27.com/20250925/16366_8b98f94f/爱情保卫战20250924.mp4#[手机MP4]20250904$https://lzdown27.com/20250905/15451_2f0f9453/爱情保卫战20250904.mp4#[手机MP4]20250814$https://lzdown27.com/20250815/14443_35467f70/爱情保卫战20250814.mp4#[手机MP4]20250724$https://lzdown27.com/20250725/13438_b97a4f20/爱情保卫战20250724.mp4#[手机MP4]20250624$https://lzdown26.com/20250625/12029_45f482b2/爱情保卫战20250624.mp4#[手机MP4]20250604$https://lzdown26.com/20250605/10988_edc2b8b7/爱情保卫战20250604.mp4#[手机MP4]20250514$https://lzdown26.com/20250515/9995_61ed6ee9/爱情保卫战20250514.mp4#[手机MP4]20250424$https://lzdown26.com/20250425/9090_9ca47253/爱情保卫战20250424.mp4#[手机MP4]20250304$https://lzdown26.com/20250305/6564_6592f288/爱情保卫战20250304.mp4#[手机MP4]20250114$https://dow.dowlz17.com/20250115/4341_3f1e3c83/爱情保卫战20250114.mp4#[手机MP4]20241224$https://dow.dowlz17.com/20241225/3262_e58b127b/爱情保卫战20241224.mp4#[手机MP4]20241204$https://dow.dowlz17.com/20241204/2548_f09e0f0c/爱情保卫战20241204.mp4#[手机MP4]20241114$https://dow.dowlz18.com/20241115/19354_6b902c10/爱情保卫战20241114.mp4#[手机MP4]20241024$https://dow.dowlz18.com/20241025/18592_4657797c/爱情保卫战20241024.mp4#[手机MP4]20240924$https://dow.dowlz18.com/20240925/17420_f5875296/爱情保卫战20240924.mp4#[手机MP4]20240904$https://dow.dowlz18.com/20240905/16489_c23611e3/爱情保卫战20240904.mp4#[手机MP4]20240814$https://dow.dowlz18.com/20240815/15423_907ac7d3/爱情保卫战20240815.mp4#[手机MP4]20240724$https://dow.dowlz17.com/20240725/2810_8b922f29/爱情保卫战20240724.mp4#[手机MP4]20240704$https://dow.dowlz17.com/20240705/2039_acf7fdec/爱情保卫战20240704.mp4#[手机MP4]20240604$https://dow.dowlz18.com/20240605/13649_e61987b1/爱情保卫战20240604.mp4#[手机MP4]20240514$https://dow.dowlz10.com/20240515/18923_db05688c/爱情保卫战20240514.mp4#[手机MP4]20240424$https://dow.dowlz10.com/20240425/18041_1b4b19f8/爱情保卫战20240424.mp4#[手机MP4]20240404$https://dow.dowlz10.com/20240405/17114_9c416a58/爱情保卫战20240404.mp4#[手机MP4]20240314$https://dow.dowlz11.com/20240315/25603_52852e65/爱情保卫战20240314.mp4#[手机MP4]20240124$https://dow.dowlz11.com/20240125/23501_0532aaae/爱情保卫战20240124.mp4#[手机MP4]20240104$https://dow.dowlz11.com/20240105/22537_73d66ca4/爱情保卫战20240104.mp4#[手机MP4]20230404$https://dow.dowlz7.com/20230405/7017_f521ef38/爱情保卫战20230404.mp4#[手机MP4]20230314$https://dow.dowlz7.com/20230316/6228_ad0e3d2f/爱情保卫战20230314.mp4#[手机MP4]20230214$https://dow.dowlz7.com/20230215/5108_5b42626f/爱情保卫战20230214.mp4#[手机MP4]20230104$https://dow.dowlz2.com//20230105/13813_07bf6e91/爱情保卫战20230104.mp4#[手机MP4]20221214$https://dow.dowlz2.com//20221216/12979_556e897b/爱情保卫战20221214.mp4#[手机MP4]20221124$https://dow.dowlz2.com//20221125/12198_3e033e49/爱情保卫战20221124.mp4#[手机MP4]20221004$https://dow.dowlz7.com/20221013/2833_6f2747a6/爱情保卫战20221004.mp4#[手机MP4]20260303$https://dow.lzdown28.com/20260304/9188_81198711/爱情保卫战20260303.mp4#[手机MP4]20260203$https://dow.lzdown28.com/20260204/8089_9e8e7e8c/爱情保卫战20260203.mp4#[手机MP4]20260113$https://dow.lzdown28.com/20260114/7260_446f3f68/爱情保卫战20260113.mp4#[手机MP4]20251223$https://dow.lzdown28.com/20251224/6360_697ca75a/爱情保卫战20251223.mp4#[手机MP4]20251203$https://dow.lzdown28.com/20251204/5419_5b89b9a9/爱情保卫战20251203.mp4#[手机MP4]20251113$https://lzdown27.com/20251114/18678_2a4d8c47/爱情保卫战20251113.mp4#[手机MP4]20251023$https://lzdown27.com/20251024/17696_0a0c96b2/爱情保卫战20251023.mp4#[手机MP4]20250923$https://lzdown27.com/20250924/16291_35a7981b/爱情保卫战20250923.mp4#[手机MP4]20250813$https://lzdown27.com/20250814/14391_706f8620/爱情保卫战20250813.mp4#[手机MP4]20250723$https://lzdown27.com/20250724/13385_954bd5df/爱情保卫战20250723.mp4#[手机MP4]20250603$https://lzdown26.com/20250604/10940_946da440/爱情保卫战20250603.mp4#[手机MP4]20250513$https://lzdown26.com/20250514/9949_a0474bf2/爱情保卫战20250513.mp4#[手机MP4]20250423$https://lzdown26.com/20250424/9038_3c5496ff/爱情保卫战20250423.mp4#[手机MP4]20250403$https://lzdown26.com/20250404/8074_7627002c/爱情保卫战20250403.mp4#[手机MP4]20250313$https://lzdown26.com/20250314/7125_7089c806/爱情保卫战20250313.mp4#[手机MP4]20250213$https://lzdown26.com/20250214/5723_fe2698cf/爱情保卫战20250213.mp4#[手机MP4]20250123$https://dow.dowlz17.com/20250124/4779_a2b37c02/爱情保卫战20250123.mp4#[手机MP4]20241113$https://dow.dowlz18.com/20241114/19329_dc74e3f1/爱情保卫战20241114.mp4#[手机MP4]20241023$https://dow.dowlz18.com/20241024/18543_1faffe2b/爱情保卫战20241023.mp4#[手机MP4]20241003$https://dow.dowlz18.com/20241004/17843_80c87546/爱情保卫战20241003.mp4#[手机MP4]20240903$https://dow.dowlz18.com/20240904/16394_15ff68e1/爱情保卫战20240903.mp4#[手机MP4]20240813$https://dow.dowlz18.com/20240814/15355_a57ec6d4/爱情保卫战20240813.mp4#[手机MP4]20240723$https://dow.dowlz17.com/20240724/2732_e73dcea4/爱情保卫战20240723.mp4#[手机MP4]20240703$https://dow.dowlz17.com/20240704/1970_92831af1/爱情保卫战20240703.mp4#[手机MP4]20240613$https://dow.dowlz17.com/20240614/533_c6091a0d/爱情保卫战20240613.mp4#[手机MP4]20240523$https://dow.dowlz18.com/20240524/12834_1070ddc1/爱情保卫战20240523.mp4#[手机MP4]20240423$https://dow.dowlz10.com/20240424/18006_04cf6799/爱情保卫战20240423.mp4#[手机MP4]20240403$https://dow.dowlz10.com/20240404/17085_28031afb/爱情保卫战20240403.mp4#[手机MP4]20240313$https://dow.dowlz11.com/20240314/25578_b6364401/爱情保卫战20240313.mp4#[手机MP4]20240123$https://dow.dowlz11.com/20240124/23452_ddb5649d/爱情保卫战20240113.mp4#[手机MP4]20240103$https://dow.dowlz11.com/20240104/22489_85ba4b58/爱情保卫战20240103.mp4#[手机MP4]20230413$https://dow.dowlz8.com/20230414/49880_412a4d1e/爱情保卫战20230413.mp4#[手机MP4]20230323$https://dow.dowlz7.com/20230325/6558_2b92836e/爱情保卫战20230323.mp4#[手机MP4]20230223$https://dow.dowlz7.com/20230224/5473_e8fd41d8/爱情保卫战20230223.mp4#[手机MP4]20230103$https://dow.dowlz2.com//20230104/13762_9617d5c7/爱情保卫战20230103.mp4#[手机MP4]20221213$https://dow.dowlz2.com//20221214/12905_f0ba6024/爱情保卫战20221213.mp4#[手机MP4]20221123$https://dow.dowlz2.com//20221124/12162_65a46452/爱情保卫战20221123.mp4#[手机MP4]20221103$https://dow.dowlz7.com/20221105/3574_2e29af5e/爱情保卫战20221103.mp4#[手机MP4]20221013$https://dow.dowlz7.com/20221014/2891_21d1db63/爱情保卫战20221013.mp4#[手机MP4]20260402$https://dow.lzdown28.com/20260403/4348_5861bd84/爱情保卫战20260402.mp4#[手机MP4]20260312$https://dow.lzdown28.com/20260313/3189_4435a55a/爱情保卫战20260312.mp4#[手机MP4]20260212$https://dow.lzdown28.com/20260213/8463_bae9ed54/爱情保卫战20260212.mp4#[手机MP4]20260122$https://dow.lzdown28.com/20260123/7598_635cb4a1/爱情保卫战20260122.mp4#[手机MP4]20251202$https://dow.lzdown28.com/20251203/5378_b1b85cf4/爱情保卫战20251202.mp4#[手机MP4]20251112$https://lzdown27.com/20251113/18637_cc948098/爱情保卫战20251112.mp4#[手机MP4]20251022$https://lzdown27.com/20251023/17641_e1c36db6/爱情保卫战_20251022.mp4#[手机MP4]20251002$https://lzdown27.com/20251003/16740_bd2bc2a4/爱情保卫战20251002.mp4#[手机MP4]20250902$https://lzdown27.com/20250903/15366_87253b88/爱情保卫战20250902.mp4#[手机MP4]20250812$https://lzdown27.com/20250813/14370_96adaa7e/爱情保卫战20250812.mp4#[手机MP4]20250722$https://lzdown27.com/20250723/13336_2639bda4/爱情保卫战20250722.mp4#[手机MP4]20250702$https://lzdown27.com/20250703/12446_a0e42c8d/爱情保卫战20250702.mp4#[手机MP4]20250612$https://lzdown26.com/20250613/11408_0679c048/爱情保卫战20250612.mp4#[手机MP4]20250522$https://lzdown26.com/20250523/10394_bbf152b9/爱情保卫战20250522.mp4#[手机MP4]20250422$https://lzdown26.com/20250423/8967_693dfe29/爱情保卫战20250422.mp4#[手机MP4]20250402$https://lzdown26.com/20250403/8038_daa80c78/爱情保卫战20250402.mp4#[手机MP4]20250312$https://lzdown26.com/20250313/7071_5d9e51cd/爱情保卫战20250312.mp4#[手机MP4]20250212$https://lzdown26.com/20250213/5678_d7608c0c/爱情保卫战20250212.mp4#[手机MP4]20250122$https://dow.dowlz17.com/20250123/4711_a5963f78/爱情保卫战20250122.mp4#[手机MP4]20250102$https://dow.dowlz17.com/20250103/3681_5aff398a/爱情保卫战20250102.mp4#[手机MP4]20241212$https://dow.dowlz17.com/20241213/2853_8db96c16/爱情保卫战20241212.mp4#[手机MP4]20241212$https://dow.dowlz17.com/20241212/2823_2781b145/爱情保卫战20241212.mp4#[手机MP4]20241112$https://dow.dowlz18.com/20241113/19285_14d01a92/爱情保卫战20241112.mp4#[手机MP4]20241022$https://dow.dowlz18.com/20241023/18508_a3d29ad5/爱情保卫战20241022.mp4#[手机MP4]20241002$https://dow.dowlz18.com/20241003/17807_585cff57/爱情保卫战20241003.mp4#[手机MP4]20240912$https://dow.dowlz18.com/20240913/16879_80289354/爱情保卫战20240912.mp4#[手机MP4]20240822$https://dow.dowlz18.com/20240823/15806_b37c809d/爱情保卫战20240822.mp4#[手机MP4]20240702$https://dow.dowlz17.com/20240703/1914_b6aa00e1/爱情保卫战 20240702.mp4#[手机MP4]20240612$https://dow.dowlz17.com/20240613/463_9b75953e/爱情保卫战20240612.mp4#[手机MP4]20240522$https://dow.dowlz18.com/20240523/12775_4de9bcf9/爱情保卫战20240522.mp4#[手机MP4]20240402$https://dow.dowlz10.com/20240403/17015_09d2b8d2/爱情保卫战20240402.mp4#[手机MP4]20240312$https://dow.dowlz11.com/20240313/25508_cf12ef10/爱情保卫战20240312.mp4#[手机MP4]20240222$https://dow.dowlz11.com/20240223/24670_7ccd73ae/爱情保卫战20240222.mp4#[手机MP4]20240102$https://dow.dowlz11.com/20240103/22378_00e1ae39/爱情保卫战20240102.mp4#[手机MP4]20230412$https://dow.dowlz8.com/20230413/49810_0ab2d0f5/爱情保卫战20230412.mp4#[手机MP4]20230322$https://dow.dowlz7.com/20230323/6462_7e828fe3/爱情保卫战20230322.mp4#[手机MP4]20230302$https://dow.dowlz7.com/20230303/5786_bfd52a46/爱情保卫战20230302.mp4#[手机MP4]20230222$https://dow.dowlz7.com/20230223/5441_d0ff5d23/爱情保卫战20230222.mp4#[手机MP4]20230202$https://dow.dowlz7.com/20230203/4683_27583dd7/爱情保卫战20230202.mp4#[手机MP4]20230112$https://dow.dowlz2.com//20230113/14017_d6684f4f/爱情保卫战20230112.mp4#[手机MP4]20221222$https://dow.dowlz2.com//20221225/13349_d7989d58/爱情保卫战20221222.mp4#[手机MP4]20221122$https://dow.dowlz2.com//20221124/12161_27a62915/爱情保卫战20221122.mp4#[手机MP4]20221102$https://dow.dowlz7.com/20221103/3493_f6b586ee/爱情保卫战20221102.mp4#[手机MP4]20221012$https://dow.dowlz7.com/20221013/2834_fb465248/爱情保卫战20221012.mp4#[手机MP4]20260401$https://dow.lzdown28.com/20260401/4291_fdf9e20a/爱情保卫战20260401.mp4#[手机MP4]20260331$https://dow.lzdown28.com/20260331/4222_5bdb9dd6/爱情保卫战20260331.mp4#[手机MP4]20260311$https://dow.lzdown28.com/20260312/3137_82a560c0/爱情保卫战20260311.mp4#[手机MP4]20260211$https://dow.lzdown28.com/20260212/8417_df3f88d6/爱情保卫战20260211.mp4#[手机MP4]20260121$https://dow.lzdown28.com/20260122/7559_0128ed45/爱情保卫战20260121.mp4#[手机MP4]20251231$https://dow.lzdown28.com/20260101/6743_bed8104e/爱情保卫战20251231.mp4#[手机MP4]20251211$https://dow.lzdown28.com/20251212/5808_0b46f88a/爱情保卫战20251211.mp4#[手机MP4]20251111$https://lzdown27.com/20251112/18591_430d2a74/爱情保卫战20251111.mp4#[手机MP4]20251021$https://lzdown27.com/20251022/17585_08b902e7/爱情保卫战20251021.mp4#[手机MP4]20251001$https://lzdown27.com/20251002/16690_2ccf4bb1/爱情保卫战20251001.mp4#[手机MP4]20250911$https://lzdown27.com/20250912/15728_9ed1125b/爱情保卫战20250911.mp4#[手机MP4]20250821$https://lzdown27.com/20250822/14787_5fdbf1fe/爱情保卫战20250821.mp4#[手机MP4]20250731$https://lzdown27.com/20250801/13769_c1092f44/爱情保卫战20250731.mp4#[手机MP4]20250701$https://lzdown27.com/20250702/12374_5360a9f7/爱情保卫战20250701.mp4#[手机MP4]20250611$https://lzdown26.com/20250612/11361_9b22dd90/爱情保卫战20250611.mp4#[手机MP4]20250521$https://lzdown26.com/20250522/10343_57cd488f/爱情保卫战20250521.mp4#[手机MP4]20250501$https://lzdown26.com/20250502/9414_a48d5250/爱情保卫战20250501.mp4#[手机MP4]20250401$https://lzdown26.com/20250402/7985_5ce7227b/爱情保卫战20250401.mp4#[手机MP4]20250311$https://lzdown26.com/20250312/7036_b40d6a97/爱情保卫战20250311.mp4#[手机MP4]20250211$https://lzdown26.com/20250212/5643_9eb23e0b/爱情保卫战20250211.mp4#[手机MP4]20250121$https://dow.dowlz17.com/20250122/4663_08d5b444/爱情保卫战20250121.mp4#[手机MP4]20250101$https://dow.dowlz17.com/20250102/3633_19002af4/爱情保卫战20250101.mp4#[手机MP4]20241231$https://dow.dowlz17.com/20250101/3578_87a1094a/爱情保卫战20241231.mp4#[手机MP4]20241121$https://dow.dowlz17.com/20241122/8318_2a3335f8/爱情保卫战20241121.mp4#[手机MP4]20241031$https://dow.dowlz18.com/20241101/18842_b3ea67d7/爱情保卫战20241031.mp4#[手机MP4]20241001$https://dow.dowlz18.com/20241002/17782_4f382094/爱情保卫战20241001.mp4#[手机MP4]20240911$https://dow.dowlz18.com/20240912/16849_fdbec643/爱情保卫战20240911.mp4#[手机MP4]20240821$https://dow.dowlz18.com/20240822/15744_60eba68b/爱情保卫战20240821.mp4#[手机MP4]20240801$https://dow.dowlz18.com/20240802/15199_ab7ef7bc/爱情保卫战20240801.mp4#[手机MP4]20240731$https://dow.dowlz18.com/20240801/15140_d7ebfc56/爱情保卫战20240731.mp4#[手机MP4]20240711$https://dow.dowlz18.com/20240712/14052_ad08374f/爱情保卫战20240711.mp4#[手机MP4]20240611$https://dow.dowlz17.com/20240612/399_ec3fc60d/爱情保卫战20240611.mp4#[手机MP4]20240521$https://dow.dowlz10.com/20240522/19279_a165fd50/爱情保卫战20240521.mp4#[手机MP4]20240501$https://dow.dowlz10.com/20240502/18364_36b4d5a1/爱情保卫战20240501.mp4#[手机MP4]20240411$https://dow.dowlz10.com/20240412/17441_ad49864e/爱情保卫战20240411.mp4#[手机MP4]20240321$https://dow.dowlz10.com/20240327/16684_205b7dff/爱情保卫战20240321.mp4#[手机MP4]20240221$https://dow.dowlz11.com/20240222/24619_77e9c417/爱情保卫战20240221.mp4#[手机MP4]20240131$https://dow.dowlz11.com/20240201/23805_9530a467/爱情保卫战20240131.mp4#[手机MP4]20240111$https://dow.dowlz11.com/20240112/22828_1cc6d56c/爱情保卫战20240111.mp4#[手机MP4]20230411$https://dow.dowlz2.com//20230412/14141_2fcd4cab/爱情保卫战20230411.mp4#[手机MP4]20230321$https://dow.dowlz7.com/20230322/6433_2e40af20/爱情保卫战20230321.mp4#[手机MP4]20230301$https://dow.dowlz7.com/20230302/5728_a38ea732/爱情保卫战20230301.mp4#[手机MP4]20230221$https://dow.dowlz7.com/20230223/5444_c06612ba/爱情保卫战20230221.mp4#[手机MP4]20230201$https://dow.dowlz7.com/20230202/4628_639346e0/爱情保卫战20230201.mp4#[手机MP4]20230131$https://dow.dowlz7.com/20230201/4600_02378868/爱情保卫战20230131.mp4#[手机MP4]20230111$https://dow.dowlz2.com//20230112/13984_3a9aefc6/爱情保卫战20230111.mp4#[手机MP4]20221221$https://dow.dowlz2.com//20221225/13348_7e2270fb/爱情保卫战20221221.mp4#[手机MP4]20221101$https://dow.dowlz7.com/20221103/3494_3256ef42/爱情保卫战20221101.mp4#[手机MP4]20221011$https://dow.dowlz7.com/20221013/2831_47fa7bbf/爱情保卫战20221011.mp4#[手机MP4]20260310$https://dow.lzdown28.com/20260311/3092_c268cf79/爱情保卫战20260310.mp4#[手机MP4]20240110$https://14.lzdow1314.top/20240111/9118_cc1d7799/爱情保卫战20240110.mp4#[手机MP4]20260210$https://dow.lzdown28.com/20260211/8375_f3bd8555/爱情保卫战20260210.mp4#[手机MP4]20260120$https://dow.lzdown28.com/20260121/7517_95a76770/爱情保卫战20260120.mp4#[手机MP4]20251230$https://dow.lzdown28.com/20251231/6675_0db651e9/爱情保卫战20251230.mp4#[手机MP4]20251210$https://dow.lzdown28.com/20251211/5767_efc757a5/爱情保卫战20251210.mp4#[手机MP4]20251120$https://lzdown27.com/20251121/18976_ec5c5972/爱情保卫战20251120.mp4#[手机MP4]20251030$https://lzdown27.com/20251031/18044_78315561/爱情保卫战20251030.mp4#[手机MP4]20250930$https://lzdown27.com/20251001/16649_f394600b/爱情保卫战20250930.mp4#[手机MP4]20250910$https://lzdown27.com/20250911/15689_051ab4ed/爱情保卫战20250910.mp4#[手机MP4]20250820$https://lzdown27.com/20250821/14725_cec696e6/爱情保卫战20250820.mp4#[手机MP4]20250730$https://lzdown27.com/20250731/13719_53bc641a/爱情保卫战20250730.mp4#[手机MP4]20250710$https://lzdown27.com/20250711/12796_22738c61/爱情保卫战20250710.mp4#[手机MP4]20250610$https://lzdown26.com/20250611/11273_dc2b671e/爱情保卫战20250610.mp4#[手机MP4]20250520$https://lzdown26.com/20250521/10291_9347fd6c/爱情保卫战20250520.mp4#[手机MP4]20250430$https://lzdown26.com/20250501/9361_d6c06619/爱情保卫战20250430.mp4#[手机MP4]20250410$https://lzdown26.com/20250411/8390_3221c4af/爱情保卫战20250410.mp4#[手机MP4]20250320$https://lzdown26.com/20250321/7477_2d560d8b/爱情保卫战20250320.mp4#[手机MP4]20250220$https://lzdown26.com/20250221/6021_023951ce/爱情保卫战20250220.mp4#[手机MP4]20241210$https://dow.dowlz17.com/20241211/2784_7bd1141c/爱情保卫战20241210.mp4#[手机MP4]2024120$https://dow.dowlz17.com/20241205/2570_a5e24919/爱情保卫战2024120.mp4#[手机MP4]20241120$https://dow.dowlz18.com/20241121/19597_5eb78fbc/爱情保卫战202420241120.mp4#[手机MP4]20241030$https://dow.dowlz18.com/20241031/18799_cdc05eda/爱情保卫战20241030.mp4#[手机MP4]20240910$https://dow.dowlz18.com/20240911/16794_de164ea7/爱情保卫战20240910.mp4#[手机MP4]20240730$https://dow.dowlz18.com/20240731/15083_f8acbb52/爱情保卫战20240730.mp4#[手机MP4]20240710$https://dow.dowlz18.com/20240711/13986_8ed79b6f/爱情保卫战20240710.mp4#[手机MP4]20240620$https://dow.dowlz17.com/20240621/977_f32922ca/爱情保卫战20240620.mp4#[手机MP4]20240530$https://dow.dowlz18.com/20240531/13314_b869533a/爱情保卫战20240530.mp4#[手机MP4]20240430$https://dow.dowlz10.com/20240501/18270_441f17cd/爱情保卫战20240430.mp4#[手机MP4]20240410$https://dow.dowlz10.com/20240411/17397_fac0994d/爱情保卫战20240410.mp4#[手机MP4]20240320$https://dow.dowlz10.com/20240321/16420_e570489a/爱情保卫战20240320.mp4#[手机MP4]20240220$https://dow.dowlz11.com/20240221/24558_de80dbf8/爱情保卫战20240220.mp4#[手机MP4]20240130$https://dow.dowlz11.com/20240131/23775_42c96b10/爱情保卫战20240130.mp4#[手机MP4]20240110$https://dow.dowlz14.com/20240111/9118_cc1d7799/爱情保卫战20240110.mp4#[手机MP4]20230330$https://dow.dowlz7.com/20230331/6822_f46dd3fc/爱情保卫战20230330.mp4#[手机MP4]20230110$https://dow.dowlz7.com/20230112/4076_e45f02d3/爱情保卫战20230110.mp4#[手机MP4]20221220$https://dow.dowlz2.com//20221221/13187_3f4cc0fc/爱情保卫战20221220.mp4#[手机MP4]20221110$https://dow.dowlz2.com//20221113/11699_0f8d4dbe/爱情保卫战20221110.mp4#[手机MP4]20221005.$https://dow.dowlz7.com/20221013/2832_cff57e2b/爱情保卫战20221005.mp4#"
+        ],
+        "url_type": "mp4"
+      },
+      "movie_count": {
+        "estimated_total": 33,
+        "total_pages": 1
+      }
+    }
+  },
+  {
+    "domain": "www.hzxinghaozl.com",
+    "url": "https://www.hzxinghaozl.com/",
+    "score": 30,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 95025,
+        "response_time": 0.602409
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": 254,
+        "total_pages": 1
+      }
+    }
+  },
+  {
+    "domain": "www.3kyy.com",
+    "url": "https://www.3kyy.com/",
+    "score": 25,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 100577,
+        "response_time": 0.706148
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": 0,
+        "total_pages": 1
+      }
+    }
+  },
+  {
+    "domain": "www.yndqjz.com",
+    "url": "http://www.yndqjz.com/",
+    "score": 25,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 174315,
+        "response_time": 0.434817
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": 93,
+        "total_pages": 1
+      }
+    }
+  },
+  {
+    "domain": "www.mjtt5.net",
+    "url": "https://www.mjtt5.net/",
+    "score": 20,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 128172,
+        "response_time": 0.796113
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": "unknown"
+      }
+    }
+  },
+  {
+    "domain": "www.usbachina.com",
+    "url": "https://www.usbachina.com/",
+    "score": 20,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 115853,
+        "response_time": 0.933797
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": "unknown"
+      }
+    }
+  },
+  {
+    "domain": "www.fyhsyy.com",
+    "url": "https://www.fyhsyy.com/",
+    "score": 20,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 33828,
+        "response_time": 3.541855
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": "unknown"
+      }
+    }
+  },
+  {
+    "domain": "itbbb.com",
+    "url": "https://itbbb.com/",
+    "score": 25,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 26283,
+        "response_time": 0.471679
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": 0,
+        "total_pages": 1
+      }
+    }
+  },
+  {
+    "domain": "wap.6080w.cc",
+    "url": "https://wap.6080w.cc/",
+    "score": 20,
+    "details": {
+      "accessibility": {
+        "accessible": true,
+        "status_code": 200,
+        "content_length": 110551,
+        "response_time": 1.701002
+      },
+      "maccms_api": {
+        "has_api": false
+      },
+      "structure": {
+        "parseable": false,
+        "error": "未找到影片列表结构"
+      },
+      "movie_count": {
+        "estimated_total": "unknown"
+      }
+    }
+  },
+  {
+    "domain": "www.dmq8a2x9s1.shop",
+    "url": "https://www.dmq8a2x9s1.shop/",
+    "score": 0,
+    "details": {
+      "accessibility": {
+        "accessible": false,
+        "error": "('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+      }
+    }
+  }
+]
