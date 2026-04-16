@@ -277,10 +277,10 @@ TVSource Studio/
 
 ## 🌐 代码仓库
 
-- **GitHub**: [https://github.com/YOUR_USERNAME/TVSource-Studio](https://github.com/YOUR_USERNAME/TVSource-Studio)
-- **Gitee**: [https://gitee.com/YOUR_USERNAME/TVSource-Studio](https://gitee.com/YOUR_USERNAME/TVSource-Studio)
+- **GitHub**: [https://github.com/debrnr/TVSource-Studio](https://github.com/debrnr/TVSource-Studio) ⭐
+- **Gitee**: [https://gitee.com/debrnr/tvsource-studio](https://gitee.com/debrnr/tvsource-studio) ⭐
 
-> 💡 提示: 请将 `YOUR_USERNAME` 替换为您的实际用户名
+> 💡 欢迎 Star、Fork 和提交 Issue!
 
 ---
 
